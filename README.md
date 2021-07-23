@@ -1,7 +1,9 @@
 #README FIRST TO USER
 
 ########## PRE-REQUISITES ##########
+
 Install following libraries:
+
 pip install pandas
 pip install wikipedia
 
