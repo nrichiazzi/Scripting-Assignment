@@ -1,0 +1,10 @@
+  12306 Amazon
+  10903 S3
+   3200 objects
+   2973 storage
+   2467 data
+   2159 service
+   1906 object
+   1788 billion
+   1670 AWS
+   1645 services
