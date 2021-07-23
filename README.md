@@ -10,7 +10,9 @@ pip install wikipedia
 ########## IMPLEMENTATION ##########
 
 A ) CREATION OF RANDOM TEST LOG DATA
-1 - Run first script: python main.py
+1 - Run first script: 
+
+      (base) nico@Nico-Ubuntu:~/Documentos/Homework$ python main.py
       
 2 - The script will create a document called "demofile2.txt" with all random log data following the first point of the requirement.
 
