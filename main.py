@@ -34,7 +34,7 @@ def concatText(time):
 def formatLog(text):
     textLength = len(text)
     if (textLength < 500):
-        text = text + "x" * (500 - textLength - 1)
+        text = text + "|" + "x" * (500 - textLength - 2)
     else:
         text = text[:499]
     return text + "|\n"
